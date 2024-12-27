@@ -6,7 +6,7 @@
 
 - The file with name of *Interstellar* , is the main file and is about a elementry game with subject of (war between spaceships)
 - The source codes with names of (*Enemy , Heart , Spaceship*) are related to *Interstellar* and we import it in there
-- The file with name of *Bullet* , is related to *Spaceship* file and imported in there
+- The file with name of *Bullet* , is related to *Spaceship* file and imported in there 
 
 ### Game guide :
 - You can go to the left and right with *A* & *D* keys or with the *Left* and *Right* keys on keyboard
