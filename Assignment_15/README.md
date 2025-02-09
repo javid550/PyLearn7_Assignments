@@ -1,6 +1,6 @@
 # Assignment_15
 
-## Snake_Game
+## Snake_Game 🐍
 
 ### There is 4 files in this folder , each of them :
 
