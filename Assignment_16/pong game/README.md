@@ -9,8 +9,8 @@
 
 ### Game guide :
 - You can move your rocket with scrolling up and down your mouse
-- 
-- If you lose the game there will be *Game_Over* massage and *Your score* displayed below of that massage
+- When the ball pass your rocket border , one point will be added to your competitors score ;
+  also if you can get pass the ball , you will get one point
 
 
 ### Installation guide
