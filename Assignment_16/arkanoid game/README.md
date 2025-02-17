@@ -4,7 +4,7 @@
 
 ### There is 5 files in this folder , each of them :
 
-- The file with name of *Arkanoid* , is the main file and is about a elementry game with subject of (war between spaceships)
+- The file with name of *Arkanoid* , is the main file and is about a elementry *Arkanoid* game
 - The source codes with names of (*Ball , Blocks , Heart , Rocket*) are related to *Arkanoid* and we import it in there 
 
 ### Game guide :
