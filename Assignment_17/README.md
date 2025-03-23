@@ -14,7 +14,7 @@
 
  ### Output :
 
- ![concentric](calculator.jng)
+ ![concentric](calculator.jpg)
  
 
 ### Installation guide
