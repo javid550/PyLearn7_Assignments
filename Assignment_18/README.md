@@ -9,7 +9,7 @@
 - The sign of **✖** is belong to you & the sign of **⭕** is belong to your competitor
 - There is scoreboard on top of the window what's show you the number of *Wins* , *Draws* , *Loses*
 - If you click on **Reset** button , the match will be reset
-- The **About** button give you a simple guide of game
+- The **About** button give you a simple guide of game 
 
 
  ### Output :
