@@ -16,7 +16,7 @@
 
 
 ### Installation guide
-To execute this program you need to install two libraries
+To execute this program you need to install two libraries 
 
 **arcade** and **random**
 
