@@ -12,7 +12,7 @@
 
  ### Output :
 
- ![concentric](Puzzel 15.png)
+ ![concentric](https://github.com/javid550/PyLearn7_Assignments/blob/main/Assignment_19/Puzzle%2015/Puzzel%2015.png)
  
 
 ### Installation guide
