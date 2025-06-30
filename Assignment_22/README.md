@@ -34,9 +34,6 @@ For instance :
 
 ## How To Run
 
-To run exe file :
-- click on main.exe in dist folder
-
 To run python files , open your *cmd* or *Terminal* and enter this command :
 ```
 python main.py
