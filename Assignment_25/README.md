@@ -23,11 +23,14 @@
 World-Clock :
 ![concentric](World_clock.png)
 
+
 Alarm :
 ![concentric](Alarm.png)
 
+
 Stopwatch :
 ![concentric](Stopwatch.png)
+
 
 Timer :
 ![concentric](Timer.png)
