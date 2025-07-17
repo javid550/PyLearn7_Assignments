@@ -2,7 +2,7 @@
 
 ## Sudoku Game 
 
-### What's there :
+### What's there : 
 
 - This assignment is relating to Sudoku game
 - There are three python files :
