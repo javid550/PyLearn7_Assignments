@@ -1,0 +1,28 @@
+import time
+from moviepy import VideoFileClip
+
+
+start_time = time.time()
+
+
+videos = [
+    'videos\Matter.mp4',
+    'videos\Fulfil.mp4',
+    'videos\D_Mahyar.mp4',
+    'videos\Take_Me_Away.mp4',
+    'videos\I _cant_fit_in.mp4'
+    ]
+
+for video in videos :
+
+    vid = VideoFileClip(video)
+    audio_name = video.replace('.mp4','.mp3')
+    vid.audio.write_audiofile(audio_name)
+
+    vid.close()
+
+
+end_time = time.time()
+
+print(end_time - start_time)
+# Result : 9.543945550918579 took time
